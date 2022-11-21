@@ -1,7 +1,0 @@
-[build]
-base = "website/"
-publish = "website/.next"
-command = "yarn build"
-
-[[plugins]]
-package = "@netlify/plugin-nextjs"
